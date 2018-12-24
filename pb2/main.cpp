@@ -17,10 +17,8 @@ public:
         this->value = value;
         this->left = NULL;
         this->right = NULL;
-        this->root=NULL;
     }
     int value;
-    BinTreeNode* root;
     BinTreeNode* left;
     BinTreeNode* right;
 
