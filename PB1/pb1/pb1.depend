@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542803956 source:d:\facultate exercitii\pb1\pb1\main.cpp
+	<string.h>
+	<iostream>
+	<cstdlib>
+	<fstream>
+
